@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eefa6a6f-9ff5-423c-944b-45ae09fcd82d" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Ex-07062024/Lab014.py" afterDir="false" />
+    <list default="true" id="eefa6a6f-9ff5-423c-944b-45ae09fcd82d" name="Changes" comment="Lab014.py">
+      <change afterPath="$PROJECT_DIR$/Ex-07062024/Lab015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,8 @@
     "Python.Lab002.executor": "Run",
     "Python.Lab009.executor": "Run",
     "Python.Lab010.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -136,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717933940109</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lab014.py">
+      <option name="closed" value="true" />
+      <created>1717936323340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717936323340</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +156,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="PRASANTH GUPTHAN MR" />
     <MESSAGE value="Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+    <MESSAGE value="Lab014.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab014.py" />
   </component>
 </project>
