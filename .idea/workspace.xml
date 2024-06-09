@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eefa6a6f-9ff5-423c-944b-45ae09fcd82d" name="Changes" comment="adding Lab002 file">
-      <change afterPath="$PROJECT_DIR$/Ex-05062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-05062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-05062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-05062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-05062024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-03062024/Lb003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;prasanthgupthan&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prasanthgupthan"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/prasanthgupthan/PyLearning3xATB.git&quot;,
-    &quot;accountId&quot;: &quot;886f9aa3-7156-45b9-9e50-8b71c0001ade&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prasanthgupthan/PyLearning3xATB.git",
+    "accountId": "886f9aa3-7156-45b9-9e50-8b71c0001ade"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2hOKVx1XwoV0tEA9Psp58VGGGmM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,17 +50,8 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -107,31 +94,7 @@
       <option name="project" value="LOCAL" />
       <updated>1717461407856</updated>
     </task>
-    <task id="LOCAL-00004" summary="adding Lab002 file">
-      <option name="closed" value="true" />
-      <created>1717638348414</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1717638348414</updated>
-    </task>
-    <task id="LOCAL-00005" summary="adding Lab002 file">
-      <option name="closed" value="true" />
-      <created>1717638367333</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1717638367333</updated>
-    </task>
-    <task id="LOCAL-00006" summary="adding Lab002 file">
-      <option name="closed" value="true" />
-      <created>1717638377605</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1717638377605</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
