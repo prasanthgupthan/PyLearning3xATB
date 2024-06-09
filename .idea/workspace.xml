@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eefa6a6f-9ff5-423c-944b-45ae09fcd82d" name="Changes" comment="PRASANTH GUPTHAN MR" />
+    <list default="true" id="eefa6a6f-9ff5-423c-944b-45ae09fcd82d" name="Changes" comment="Hello World">
+      <change afterPath="$PROJECT_DIR$/Ex-07062024/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,7 @@
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -124,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717933452788</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1717933940109</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717933940109</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +145,7 @@
     <MESSAGE value="adding Lab008 file" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="PRASANTH GUPTHAN MR" />
-    <option name="LAST_COMMIT_MESSAGE" value="PRASANTH GUPTHAN MR" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
   </component>
 </project>
