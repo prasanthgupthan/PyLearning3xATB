@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eefa6a6f-9ff5-423c-944b-45ae09fcd82d" name="Changes" comment="Lab014.py">
-      <change afterPath="$PROJECT_DIR$/TASK-10062024/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK-10062024/Task02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK-21062024/PALINDROME.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK-21062024/RIGHT TRIANGLE STAR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK-21062024/STRING REVERSE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TASK-12062024/TASK04.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASK-12062024/TASK04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +71,10 @@
     "Python.Lab036.executor": "Run",
     "Python.Lab038.executor": "Run",
     "Python.Lab040.executor": "Run",
+    "Python.PALINDROME.executor": "Run",
+    "Python.RIGHT TRIANGLE STAR.executor": "Run",
+    "Python.STRING REVERSE.executor": "Run",
+    "Python.TASK04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -216,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718585762715</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lab014.py">
+      <option name="closed" value="true" />
+      <created>1718586031543</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718586031543</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Lab014.py">
+      <option name="closed" value="true" />
+      <created>1718586249019</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718586249019</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,5 +251,16 @@
     <MESSAGE value="Hello World" />
     <MESSAGE value="Lab014.py" />
     <option name="LAST_COMMIT_MESSAGE" value="Lab014.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TASK-12062024/TASK04.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
